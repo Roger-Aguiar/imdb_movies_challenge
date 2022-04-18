@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZWLtmWEaFDQCiIbeufV8zJS5BCDF/N6oq40aDfZsRLw=",
+  "Source": "ImdbMovies",
+  "BasePath": "_content/ImdbMovies",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
